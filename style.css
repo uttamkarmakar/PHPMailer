@@ -1,0 +1,28 @@
+body {
+  background-color: blue;
+}
+
+input {
+  padding: 10px;
+  margin: 0 auto;
+}
+
+input[type=submit] {
+  background-color: green;
+  border: none;
+  outline: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  height: 300px;
+  background-color: rgba(67, 202, 202);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
