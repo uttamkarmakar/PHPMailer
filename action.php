@@ -22,4 +22,3 @@
     $mail->send();
     echo "Sent";
 }
-
